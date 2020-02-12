@@ -1,0 +1,3 @@
+peppers_enc.bmp
+peppers_dec.bmp
+secret_key.txt
